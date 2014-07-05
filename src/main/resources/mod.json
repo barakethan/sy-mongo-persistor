@@ -1,0 +1,11 @@
+{
+  "main": "com.socialsky.mods.MongoPersistor",
+  "worker": true,
+  "multi-threaded": true,
+
+  "description":"MongoDB persistor module for Vert.x by Social Sky",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "barakav",
+  "keywords": ["mongo", "mongodb", "database", "databases", "persistence", "json", "nosql"],
+  "homepage": "https://github.com/barakav/sy-mongo-persistor"
+}
